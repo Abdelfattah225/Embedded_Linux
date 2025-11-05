@@ -1,9 +1,9 @@
-# Admin Linux - Task
+# Admin Linux - Task4
 ## Toggle Capslock LED via Software
 
 Overview
 --------
-This repository contains a small C program that toggles the Caps Lock LED by writing to the kernel sysfs brightness file for the Caps Lock LED. The program uses low-level syscalls (open, write, close) to modify the LED brightness node.
+This directory contains a small C program that toggles the Caps Lock LED by writing to the kernel sysfs brightness file for the Caps Lock LED. The program uses low-level syscalls (open, write, close) to modify the LED brightness node.
 
 Description
 -----------
