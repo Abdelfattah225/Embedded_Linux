@@ -45,9 +45,9 @@ Terminal A (writer):
 Take two screenshots showing both terminals running simultaneously — one with `reader` waiting/printing and one with `writer` sending messages.
 
 - writer
-- ![Project Screenshot](./write.png.jpg) 
+- ![Project Screenshot](./write.png) 
 - reader
-- ![Project Screenshot](./reader.png.jpg)
+- ![Project Screenshot](./reader.png)
 
 
 ## Source code
