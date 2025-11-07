@@ -1,4 +1,4 @@
- # Task 4: Inter-Process Communication Via shared Memory
+ # Task 5: Inter-Process Communication Via shared Memory
 
  ## Overview
 This task demonstrates simple IPC in Linux using a software shared memory buffer. Two separate C programs are provided:
@@ -11,6 +11,7 @@ This task demonstrates simple IPC in Linux using a software shared memory buffer
  Screenshots for the 2 processes running and behaving as described
 
  ## Block Diagram
+- ![Project Screenshot](./block.png) 
 
 
 
@@ -44,9 +45,9 @@ Terminal A (writer):
 Take two screenshots showing both terminals running simultaneously — one with `reader` waiting/printing and one with `writer` sending messages.
 
 - writer
-  ![Project Screenshot](./write.png.jpg) 
+- ![Project Screenshot](./write.png.jpg) 
 - reader
-  ![Project Screenshot](./reader.png.jpg)
+- ![Project Screenshot](./reader.png.jpg)
 
 
 ## Source code
